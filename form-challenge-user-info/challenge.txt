@@ -1,0 +1,4 @@
+﻿Viết mã HTML cho form có tên là f1 với phương thức có giá trị là GET, bên trong form f1 chứa các thông tin như sau:
+1. Phần thứ nhất là Account với 2 ô textbox cho phép người dùng nhập tên tài khoản và mật khẩu.
+2. Phần thứ hai là Personal với 2 ô box cho phép nhập Họ và Tên, trong đó 2 ô này mặc định sẽ hiện giá trị tương ứng là "Họ" và "Tên" tương ứng với các ô textbox.
+3. Tạo nút submit với giá trị là Submit.
